@@ -11,6 +11,7 @@ footer {
     width: 95%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     align-items: flex-end;
     justify-content: space-between;
