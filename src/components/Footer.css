@@ -2,7 +2,7 @@ footer {
     background: linear-gradient(135deg, #190a1b, #0d0a2b);
     width: 100%;
     color: #cbc9e7;
-    padding: 10px 0 10px;
+    /* padding: 10px 0 10px; */
     font-size: 10px;
     line-height: 20px;
 }

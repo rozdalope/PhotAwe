@@ -38,7 +38,7 @@ const Footer = () => {
                     <div className='footer-copyright'>
                         <div className='copyright'>
                             <p></p>
-                            <p>&copy; 2022 - PhotAwe by <a href='#' target='_blank'>Roz Dalope</a> | All Rights Reserved </p>
+                            <p>&copy; 2022 - PhotAwe by <a href='https://rozdalope.github.io/roz.dalope/' target='_blank'>Roz Dalope</a> | All Rights Reserved </p>
                         </div>
                     </div>
                 </div>
