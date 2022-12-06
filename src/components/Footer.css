@@ -24,7 +24,7 @@ footer {
 }
 
 .footer-col {
-    flex-basis: 25%;
+    width: 25%;
     padding: 10px;
 }
 
