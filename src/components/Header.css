@@ -1,0 +1,163 @@
+.nav-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg, #190a1b, #0d0a2b);
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+
+.header-logo {
+    width: 40px;
+    height: auto;
+}
+
+.nav-header-left {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 30px;
+}
+
+.nav-header-right {
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
+
+.react-Icons {
+    font-size: 20px;
+}
+
+.btn-icon {
+    border: none;
+    background-color: transparent;
+    color: #a2a2a2;
+    cursor: pointer;
+}
+
+button.btn-checkout {
+    border: 1px #e2dfdf solid;
+    /* background: linear-gradient(135deg, #0d0a2b, #3f1445); */
+    background: #cc1e61;
+    color: #a2a1a9;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 7px 10px;
+    border-radius: 15px;
+}
+
+button.btn-checkout:hover {
+    background: #e2dfdf;
+    color: #0d0a2b;
+}
+
+button.btn-icon {
+    display: flex;
+    align-items: center;
+}
+
+.headerStyles {
+    list-style-type: none;
+}
+
+
+ul.headerStyles Button {
+    display: inline-block;
+}
+
+ul li {
+    display: inline;
+    text-decoration: none;
+}
+
+.headerStyles ul {
+    margin: 2px;
+    padding: 2px;
+}
+
+section.details {
+    padding-bottom: 25px;
+    border-radius: 10%;
+    z-index: inherit;
+}
+
+button.search-icon {
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    color: #a2a2a2;
+}
+
+form.form {
+    display: flex;
+    align-items: center;
+}
+
+.bi {
+    position: absolute;
+}
+
+.cart-container {
+    position: fixed;
+    top: 55px;
+    right: 20px;
+    width: 375px;
+    color: #a2a2a2;
+    background-color: #29102c;
+    z-index: 4;
+    padding: 0 20px 0px;
+}
+
+img.cart-img {
+    border-radius: 50%;
+    width: 80px;
+    height: auto;
+}
+
+div.details-title-cart h4 {
+    font-weight: 500;
+}
+
+div.details-content {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    gap: 15px;
+}
+
+div.details_content_detail_price p {
+    margin-bottom: 4px;
+    margin-top: 2px;
+
+}
+
+div.details-content-details {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.empty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.empty .cart-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+button.details-content-delete-icon {
+    font-size: 33px;
+    color: #9e9e9e;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

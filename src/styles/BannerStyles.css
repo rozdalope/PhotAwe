@@ -1,0 +1,23 @@
+button .button .book {
+    border-radius: 2px;
+}
+
+.banner .posts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.content {
+    width: 50%;
+}
+
+div.text {
+    display: flex;
+    width: 50%;
+}
+
+img {
+    width: 50%;
+
+}

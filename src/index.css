@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f6f7f8;
+  /* background: linear-gradient(135deg, #190a1b, #0d0a2b); */
+  color: #012b56;
+  font-family: Poppins;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: 'poppins'
+}
