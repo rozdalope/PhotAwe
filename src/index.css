@@ -5,7 +5,7 @@ body {
   background-color: #f6f7f8;
   /* background: linear-gradient(135deg, #190a1b, #0d0a2b); */
   color: #012b56;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   padding: 0;
   box-sizing: border-box;
 }
