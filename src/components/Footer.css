@@ -3,8 +3,8 @@ footer {
     width: 100%;
     color: #cbc9e7;
     /* padding-bottom: 10px; */
-    position: absolute;
-    bottom: 0px;
+    /* position: absolute;
+    bottom: 0px; */
     font-size: 10px;
     line-height: 20px;
 }
